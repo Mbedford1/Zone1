@@ -1,2 +1,2 @@
---name=myb_redbull
+--name=myb_redbull1
 SELECT * FROM TRNG_TDU_TD01.myb_cf_redbull;
